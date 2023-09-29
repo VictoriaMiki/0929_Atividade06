@@ -1,0 +1,12 @@
+{
+  "name": "0929_atividade06",
+  "version": "1.0.0",
+  "description": "1. Considerando a seguinte lista de valores: [10,12,15,35,40] crie funções para devolver os dados conforme solicitado:\r Uma função que devolve os valores que são maiores que a média\r Uma função que devolva o menor valor da lista\r Uma função que devolva o valor da soma dos itens da lista\r Uma função que devolva todos os valores que são menores que 20",
+  "main": "exercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
