@@ -1,4 +1,4 @@
-const array = [5,12,20,7,9]
+const array = [5,12,20,7,9] 
 
 const [primeiro, ...restante] = array
 
